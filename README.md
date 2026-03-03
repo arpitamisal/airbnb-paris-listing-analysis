@@ -4,7 +4,7 @@ This project analyzes Airbnb listings in Paris to explore pricing trends, neighb
 
 ## Tech Stack
 - Python  
-- Pandas & NumPy  
+- Pandas
 - Matplotlib & Seaborn  
 - Jupyter Notebook  
 
